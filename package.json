@@ -1,6 +1,6 @@
 {
-  "homepage": "https://alexsmartman.github.io/my-app/",
-  "name": "my-app",
+  "homepage": "https://alexsmartman.github.io/default-app/",
+  "name": "default-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
