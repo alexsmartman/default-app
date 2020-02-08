@@ -5,7 +5,7 @@ In the project directory, you can run:
 
 ### `yarn`
 
-Install dependencies in the app<br />
+Installs dependencies in the app<br />
 
 ### `yarn start`
 
@@ -25,4 +25,4 @@ Your app is ready to be deployed!
 
 ### `yarn deploy`
 
-Deploy the app for production on [https://{yourUserNameOnGithub}.github.io/default-app](https://alexsmartman.github.io/default-app)
+Builds and deploys the app for production on [https://{yourUserNameOnGithub}.github.io/default-app](https://alexsmartman.github.io/default-app)
