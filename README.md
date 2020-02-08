@@ -25,4 +25,4 @@ Your app is ready to be deployed!
 
 ### `yarn deploy`
 
-Deploy the app for production on [https://alexsmartman.github.io/my-app](https://{yourUserNameOnGitlab}.github.io/my-app)
+Deploy the app for production on [https://{yourUserNameOnGitlab}.github.io/my-app](https://alexsmartman.github.io/my-app)
